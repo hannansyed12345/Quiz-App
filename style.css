@@ -1,0 +1,25 @@
+.options {
+    padding: 20px;
+    border : 2px solid blueviolet;
+    cursor: pointer;
+    width: 100%;
+    background-color: white;
+    color: steelblue;
+    font-size: bold;
+    border-radius: 6px;
+
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    margin: 5px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Segue UI';
+    font-size: 20px;
+    background-color: darkorange;
+}
